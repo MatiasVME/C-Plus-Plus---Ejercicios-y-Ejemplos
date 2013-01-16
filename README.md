@@ -1,4 +1,4 @@
-C-----Ejercicios-y-Ejemplos
+C++ Ejercicios y Ejemplos
 ===========================
 
-Ejercicios y ejemplos en C++
+Algunos ejercicios y ejemplos
