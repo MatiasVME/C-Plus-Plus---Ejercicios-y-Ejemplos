@@ -12,7 +12,7 @@ int main ()
 	cin >> valor2;
 	cout << "Numeros ordenados de mayor a menor" << endl;
 
-	if (valor2 > valor1) {
+	if (valor1 < valor2) {
 		int aux = valor1;
 		valor1 = valor2;
 		valor2 = aux;
