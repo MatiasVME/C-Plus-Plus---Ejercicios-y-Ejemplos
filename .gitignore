@@ -1,4 +1,15 @@
  
 # Ficheros molestos en Linux
+#
+
 .directory
 *~
+
+# C++
+#
+
+a.out
+*.bin
+
+# No terminados
+_*.cpp
